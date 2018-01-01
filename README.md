@@ -15,10 +15,15 @@ Builds to overcome the SSE4.1 warnings
 
 Bazel version: 0.4.5
 
+Ubuntu 16.04:
+
 Wheel: [tensorflow-1.3.1-cp27-cp27mu-linux_x86_64.whl](tensorflow-1.3.1-cp27-cp27mu-linux_x86_64.whl)
 
 # 1.4
 
 Bazel version: 0.9
 
+Ubuntu 16.04:
+
 Wheel: [tensorflow-1.4.1-cp27-cp27mu-linux_x86_64.whl](tensorflow-1.4.1-cp27-cp27mu-linux_x86_64.whl)
+  
